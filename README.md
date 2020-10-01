@@ -4,17 +4,17 @@ School
 Demo
 ----
 
-You can find a live School instance at [Railsschool.org](//www.railsschool.org).
+You can find a live School instance at our official website  [Railsschool.org](//www.railsschool.org).
 
 Getting Started in Development
 ----
 
-[Check out our instructions.](https://github.com/rails-school/school/blob/master/CONTRIBUTING.md)
+[Check out our instructions to proceed.](https://github.com/rails-school/school/blob/master/CONTRIBUTING.md)
 
 Start Your Own Local Rails School
 ---
 
-We'd love to have you spread Rails School to your area! [It's easy. Start here](https://github.com/rails-school/school/blob/master/STARTING_A_LOCAL_SCHOOL.md).
+We'd love to have you spread Rails School to your area! [It's very easy. Start here](https://github.com/rails-school/school/blob/master/STARTING_A_LOCAL_SCHOOL.md).
 
 Bugs and Feature Requests
 ---
